@@ -1,3 +1,3 @@
-# CS205L
+# CS 205L
 
-Data & code for time series analysis report
+data & code for time series analysis report
